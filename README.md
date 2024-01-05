@@ -5,7 +5,7 @@ This Python script automates the job search process on popular job search websit
 
 ## Prerequisites
 1. Python 3
-2. Installing the Libaries
+2. Installing the Libraries
 
 ## Libraries
 1. Selenium
